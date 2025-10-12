@@ -1,0 +1,7 @@
+name: botanica-schematics
+version: '1.0.0'
+main: cc.botanica.schematics.BotanicaSchematics
+api-version: '1.21.6'
+authors: [Project Crystalized Team]
+prefix: BotanicaSchematics
+description: Helper plugin to create schematics for Botanica
